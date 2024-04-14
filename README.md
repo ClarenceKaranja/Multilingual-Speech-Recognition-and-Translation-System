@@ -31,7 +31,7 @@ If you have any questions or need further assistance, please open an issue in th
 
 Thank you for your interest in our Multilingual Speech Recognition and Translation System!
 
-```markdown
+
 
 For more details and updates, visit the [Whisper GitHub repository](https://github.com/openai/whisper).
 
@@ -62,8 +62,6 @@ docker run -d --gpus all -p 9000:9000 -e ASR_MODEL=base -e ASR_ENGINE=openai_whi
 
 Explore the comprehensive documentation to get started and learn more about the Whisper model's capabilities and usage. Click [here](https://github.com/openai/whisper) to access the documentation.
 
-```
 
 ## Credits
-
-- This software uses libraries from the [FFmpeg](http://ffmpeg.org) project under the [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+This software uses libraries from the [FFmpeg](http://ffmpeg.org) project under the [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
